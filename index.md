@@ -7,12 +7,12 @@
 </head>
 
 <body>
-     <header>
-        <h1>Kyung-Hwan Kim</h1>
-    </header>
     <pic>
         <img src="P3180288-1.jpg" alt="">
     </pic>
+    <header>
+        <h1>Kyung-Hwan Kim</h1>
+    </header>
     <ul class="header">
         <li>Residence:Norway</li>
         <li>E-mail:k.kim.no@hotmail.com</li>
@@ -46,7 +46,7 @@
             <br>Project Manager
         </div>
         <div class="column2">
-            NOV Norway AS
+            <a class="comname2">NOV Norway AS</a>
             <br>Project managing for Coral FLNG, Offshore Cranes
             <br>Clients: TechnipFMC in France, JGC in Japan and Samsung in Korea
             <br>End User: ENI
@@ -58,8 +58,8 @@
             2014.02.01 – 2017.01.31<br>Technical Project Manager
         </div>
         <div class="column2">
-            NOV Norway AS<br>
-            Technical project managing all NOV equipment (Drilling Machine, Drilling Fluid Process Equipment and Control system): <br>
+            <a class="comname2">NOV Norway AS</a>
+            <br>Technical project managing all NOV equipment (Drilling Machine, Drilling Fluid Process Equipment and Control system): <br>
             Project:-Jackup Rig, Maersk Invincible, delivered in Jan. 2017 <br>
             -Drillship: Atwood
         </div>
@@ -72,8 +72,8 @@
             Business Development<br>
         </div>
         <div class="column2">
-            TTS Business Unit Services (TTS Marine AS), Kristiansand<br>
-            Service Hubs development<br>
+            <a class="comname2">TTS Business Unit Services (TTS Marine AS), Kristiansand</a>
+            <br>Service Hubs development<br>
             Market Analysis: Analyzing install base and estimating service business opportunity and turnover<br>
             A member of M&A working group<br>
             A member of Strategy Sourcing Group<br>
@@ -88,8 +88,8 @@
             General Manager<br>
         </div>
         <div class="column2">
-            TTS Marine Korea<br>
-            Business sector: Services for Marine/Offshore equipment<br>
+            <a class="comname2">TTS Marine Korea</a>
+            <br>Business sector: Services for Marine/Offshore equipment<br>
             Sales support for new building<br>
             Establishing and setting up local service organization<br>
             Establishing Customer Relationship for services<br>
@@ -100,7 +100,7 @@
             1999.09.01 – 2008.12.31
         </div>
         <div class="column2">
-            TTS Marine Cranes AS, Bergen
+            <a class="comname2">TTS Marine Cranes AS, Bergen</a>
             <br>Sales Manager for China (including Taiwan), Korea and Japan (2003.01-2008.12),
             Responsible for Commercial and Technical Sales
             <br>Instructor for Sales training for Chinese employees in TTS Bohai, China (2016 May – Aug)
@@ -167,7 +167,7 @@
 
 <style>
     img {
-        width: 110px;
+        width: 140px;
         float: right;
     }
 
@@ -200,6 +200,9 @@
     .column2 {
         float: left;
         width: 70%;
+    }
+    .comname2{
+        text-decoration: underline;
     }
 
     .row:after {
