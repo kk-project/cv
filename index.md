@@ -167,7 +167,7 @@
 
 <style>
     img {
-        width: 150px;
+        width: 140px;
         float: right;
     }
 
