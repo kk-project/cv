@@ -7,12 +7,12 @@
 </head>
 
 <body>
-    <pic>
-        <img src="P3180288-1.jpg" alt="">
-    </pic>
     <header>
         <h1>Kyung-Hwan Kim</h1>
     </header>
+    <pic>
+        <img src="P3180288-1.jpg" alt="">
+    </pic>
     <ul class="header">
         <li>Residence:Norway</li>
         <li>E-mail:k.kim.no@hotmail.com</li>
