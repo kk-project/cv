@@ -7,12 +7,12 @@
 </head>
 
 <body>
-    <header>
-        <h1>Kyung-Hwan Kim</h1>
-    </header>
     <pic>
         <img src="P3180288-1.jpg" alt="">
     </pic>
+    <header>
+        <h1>Kyung-Hwan Kim</h1>
+    </header>
     <ul class="header">
         <li>Residence:Norway</li>
         <li>E-mail:k.kim.no@hotmail.com</li>
@@ -46,7 +46,7 @@
             <br>Project Manager
         </div>
         <div class="column2">
-            <a class="comname2">NOV Norway AS</a>
+            <u>NOV Norway AS</u>
             <br>Project managing for Coral FLNG, Offshore Cranes
             <br>Clients: TechnipFMC in France, JGC in Japan and Samsung in Korea
             <br>End User: ENI
@@ -58,7 +58,7 @@
             2014.02.01 – 2017.01.31<br>Technical Project Manager
         </div>
         <div class="column2">
-            <a class="comname2">NOV Norway AS</a>
+            <u>NOV Norway AS</u>
             <br>Technical project managing all NOV equipment (Drilling Machine, Drilling Fluid Process Equipment and Control system): <br>
             Project:-Jackup Rig, Maersk Invincible, delivered in Jan. 2017 <br>
             -Drillship: Atwood
@@ -72,7 +72,7 @@
             Business Development<br>
         </div>
         <div class="column2">
-            <a class="comname2">TTS Business Unit Services (TTS Marine AS), Kristiansand</a>
+            <u>TTS Business Unit Services (TTS Marine AS), Kristiansand</u>
             <br>Service Hubs development<br>
             Market Analysis: Analyzing install base and estimating service business opportunity and turnover<br>
             A member of M&A working group<br>
@@ -88,7 +88,7 @@
             General Manager<br>
         </div>
         <div class="column2">
-            <a class="comname2">TTS Marine Korea</a>
+            <u>TTS Marine Korea</u>
             <br>Business sector: Services for Marine/Offshore equipment<br>
             Sales support for new building<br>
             Establishing and setting up local service organization<br>
@@ -100,7 +100,7 @@
             1999.09.01 – 2008.12.31
         </div>
         <div class="column2">
-            <a class="comname2">TTS Marine Cranes AS, Bergen</a>
+            <u>TTS Marine Cranes AS, Bergen</u>
             <br>Sales Manager for China (including Taiwan), Korea and Japan (2003.01-2008.12),
             Responsible for Commercial and Technical Sales
             <br>Instructor for Sales training for Chinese employees in TTS Bohai, China (2016 May – Aug)
@@ -114,7 +114,7 @@
             1985.12.04 - 1999.04.30
         </div>
         <div class="column2">
-            Hull Outfitting Design Department
+            <u>Hull Outfitting Design Department</u>
             <ul>
                 <li>Mar.1994-Apr.1999: Section Chief for System Engineering </li>
                 <li>Apr. 1997: Drillship interface coordinator in Huston</li>
@@ -167,8 +167,13 @@
 
 <style>
     img {
-        width: 120px;
+        width: 140px;
         float: right;
+    }
+    @media screen and (max-width: 600px) {
+        img {
+            width: 60px;
+        }
     }
 
     header {
@@ -201,10 +206,7 @@
         float: left;
         width: 70%;
     }
-    .comname2{
-        text-decoration: underline;
-    }
-
+  
     .row:after {
         content: "";
         display: table;
