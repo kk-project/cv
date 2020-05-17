@@ -166,7 +166,7 @@
 
 <style>
     img {
-        width: 140px;
+        width: 150px;
         float: right;
     }
     @media screen and (max-width: 600px) {
