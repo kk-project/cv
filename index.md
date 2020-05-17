@@ -38,7 +38,7 @@
     </ul>
 
 
-    <p class="subtitle">Professional Experience</p>
+    <p class="subtitle">PROFESSIONAL EXPERIENCE</p>
     <p class="comname1">National Oilwell Varco</p>
     <div class="row">
         <div class="column1">
