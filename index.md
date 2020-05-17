@@ -9,9 +9,9 @@
 <body>
     <p><img src="P3180288-1.jpg" alt=""></p>
     <header>
-        <h1>Kyung-Hwan Kim</h1>
+        <h2>Kyung-Hwan Kim</h2>
     </header>
-    
+
     <ul class="header">
         <li>Residence:Norway</li>
         <li>E-mail:k.kim.no@hotmail.com</li>
@@ -115,13 +115,25 @@
         <div class="column2">
             <u>Hull Outfitting Design Department</u>
             <ul>
-                <li>Mar.1994-Apr.1999: Section Chief for System Engineering </li>
-                <li>Apr. 1997: Drillship interface coordinator in Huston</li>
-                <li>May 1995: Coordinator at Bremer Vulkan shipyard in Germany</li>
-                <li>Mar.1990-Feb.1994: Assistant Manager</li>
-                <li>Jan. 1986-Feb.1990: Ship Design Engineer</li>
+                <li>Ship Design Engineer</li>
+            
+                <ul>
+                    <li>Mar.1994-Apr.1999: Section Chief for System Engineering </li>
+                    <li>Apr. 1997: Drillship interface coordinator in Huston</li>
+                    <li>May 1995: Coordinator at Bremer Vulkan shipyard in Germany</li>
+                    <li>Mar.1990-Feb.1994: Assistant Manager</li>
+                    <li>Jan. 1986-Feb.1990: Ship Design Engineer</li>
+                </ul>
             </ul>
-            Engineering Experience: FPSO, LNG, Shuttle, Drillship, Tanker (Crude, Product and Chemical), Container, Ro-Ro
+            <ul>
+                <li>Engineering Experience: 
+                <ul>
+                    <li>Ship Type: FPSO, LNG, Shuttle, Drillship, Tanker (Crude, Product and Chemical), Container, Ro-Ro</li>
+                    <li>Writer: Engineering manual for ship ventilation</li>
+                    <li>Co-writer, Ship's machinery and equipment (Publish in 2000, The Society of Naval Architects of Korea) Chapter 5, Hull Piping System</li>
+                </ul>
+            </ul>
+            
         </div>
     </div>
     <P class="subtitle">OTHER EXPERIENCE</p>
@@ -133,10 +145,7 @@
             <li>Service and Instruction Manual</li>
             <li>Spare parts list</li>
         </ul>
-        <li>1999: Co-writer, Ship's machinery and equipment
-            (Publish in 2000, The Society of Naval Architects of Korea)
-            Chapter 5, Hull Piping System</li>
-        <li>1997-1998: Secretary of Hull outfitting design Subcommittee
+            <li>1997-1998: Secretary of Hull outfitting design Subcommittee
             Engineering Committee, Korea Offshore & Shipbuilding Association</li>
     </ul>
     <P class="subtitle">EDUCATION</p>
@@ -162,13 +171,15 @@
     </ul>
 
 </body>
+
 </html>
 
 <style>
     img {
-        width: 140px;
+        width: 135px;
         float: right;
     }
+
     @media screen and (max-width: 600px) {
         img {
             width: 60px;
@@ -177,14 +188,12 @@
 
     header {
         text-align: center;
+        color: blue;
+        text-decoration: underline;
     }
 
     .header {
         border-bottom: 2px solid blue;
-    }
-
-    .qual {
-        text-underline-position: below
     }
 
     .subtitle {
@@ -192,7 +201,8 @@
         color: blue;
         text-decoration: underline;
     }
-    .comname1{
+
+    .comname1 {
         text-decoration: underline;
     }
 
@@ -205,7 +215,7 @@
         float: left;
         width: 70%;
     }
-  
+
     .row:after {
         content: "";
         display: table;
