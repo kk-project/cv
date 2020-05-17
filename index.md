@@ -2,9 +2,7 @@
     <meta charset="UTF-8">
     <title>CV for Kyung Hwan Kim</title>
 </head>
-
 <body>
-
     <header>
         <h2>Kyung-Hwan Kim</h2>
     </header>
@@ -166,7 +164,6 @@
         </ul>
     </ul>
 </body>
-</html>
 
 <style>
     img {
