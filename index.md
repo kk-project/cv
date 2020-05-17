@@ -7,6 +7,7 @@
 </head>
 
 <body>
+
     <header>
         <h2>Kyung-Hwan Kim</h2>
     </header>
@@ -116,7 +117,6 @@
             <u>Hull Outfitting Design Department</u>
             <ul>
                 <li>Ship Design Engineer</li>
-            
                 <ul>
                     <li>Mar.1994-Apr.1999: Section Chief for System Engineering </li>
                     <li>Apr. 1997: Drillship interface coordinator in Huston</li>
@@ -126,14 +126,13 @@
                 </ul>
             </ul>
             <ul>
-                <li>Engineering Experience: 
-                <ul>
-                    <li>Ship Type: FPSO, LNG, Shuttle, Drillship, Tanker (Crude, Product and Chemical), Container, Ro-Ro</li>
-                    <li>Writer: Engineering manual for ship ventilation</li>
-                    <li>Co-writer, Ship's machinery and equipment (Publish in 2000, The Society of Naval Architects of Korea) Chapter 5, Hull Piping System</li>
-                </ul>
+                <li>Engineering Experience:
+                    <ul>
+                        <li>Ship Type: FPSO, LNG, Shuttle, Drillship, Tanker (Crude, Product and Chemical), Container, Ro-Ro</li>
+                        <li>Writer: Engineering manual for ship ventilation</li>
+                        <li>Co-writer, Ship's machinery and equipment (Publish in 2000, The Society of Naval Architects of Korea) Chapter 5, Hull Piping System</li>
+                    </ul>
             </ul>
-            
         </div>
     </div>
     <P class="subtitle">OTHER EXPERIENCE</p>
@@ -145,7 +144,7 @@
             <li>Service and Instruction Manual</li>
             <li>Spare parts list</li>
         </ul>
-            <li>1997-1998: Secretary of Hull outfitting design Subcommittee
+        <li>1997-1998: Secretary of Hull outfitting design Subcommittee
             Engineering Committee, Korea Offshore & Shipbuilding Association</li>
     </ul>
     <P class="subtitle">EDUCATION</p>
@@ -169,14 +168,12 @@
                 <br>Module 3, A language level to study texts for Norwegian culture and society</li>
         </ul>
     </ul>
-
 </body>
-
 </html>
 
 <style>
     img {
-        width: 135px;
+        width: 125px;
         float: right;
     }
 
