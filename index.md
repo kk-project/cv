@@ -13,7 +13,7 @@
     </header>
     <p><img src="P3180288-1.jpg" alt=""></p>
     <ul class="header">
-        <br><br>
+        <br>
         <li>Residence:Norway</li>
         <li>E-mail:k.kim.no@hotmail.com</li>
         <li>Mobile: +47 90 85 82 20</li>
