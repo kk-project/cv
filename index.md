@@ -132,6 +132,7 @@
                         <li>Writer: Engineering manual for ship ventilation</li>
                         <li>Co-writer, Ship's machinery and equipment (Publish in 2000, The Society of Naval Architects of Korea) Chapter 5, Hull Piping System</li>
                     </ul>
+                 </li>
             </ul>
         </div>
     </div>
