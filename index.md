@@ -152,9 +152,8 @@
     <ul class="qualifications">
         <li>Nov. 2012: Project Management Professional, Korea Productivity Center, PMI member since 2012</li>
         <li>Nov. 2002: Norwegian language course (Module 1-3), Nygård Skole, Bergen, Norway</li>
-        <li>Nov. 2002: Norwegian language course (Module 1-3), Nygård Skole, Bergen, Norway</li>
         <li>Jul. 1992: Camp Trainning, Korean Standards Association</li>
-        <li>May 1989: Quality Management, Basic Practice, Korean Standards Association</li>
+        <li>May. 1989: Quality Management, Basic Practice, Korean Standards Association</li>
         <li>Feb. 1985: Bachelor, Naval Architecture, University of Ulsan, Korea</li>
     </ul>
 
