@@ -23,16 +23,11 @@
 
     <P class="subtitle">QUALIFICATIONS</P>
     <ul class="qualifications">
-        <li>Self-driven professional with total 33 years of experiences in engineering, project, technical and commercial sales, and managerial position with good understanding of work</li>
+        <li>Self-driven professional with experiences in engineering, project, technical and commercial sales, and managerial position with good understanding of work</li>
         <li>process for marine / offshore industries.</li>
         <li>Project Managing / Technical Project Managing</li>
-        <li>Business development for global service network</li>
-        <li>Managing local legal entities</li>
-        <li>Sales Managing far-east region for Offshore & Shipboard Cranes</li>
         <li>Ship design / engineering; Naval Architect </li>
-        <li>International business experience</li>
-        <li>Well understanding of global business culture </li>
-        <li>Full understanding of business and operations process in marine sector</li>
+        <li>Well understanding of global business culture and business process in marine sector</li>
         <li>Capability of statistical analysis and strategy development</li>
         <li>Good interpersonal/communication skill to work with all level of organization</li>
     </ul>
@@ -116,21 +111,20 @@
         <div class="column2">
             <u>Hull Outfitting Design Department</u>
             <ul>
-                <li>Ship Design Engineer</li>
+                <li>Senior Ship Design Engineer, Section Chief of System Engineering</li>
                 <ul>
-                    <li>Mar.1994-Apr.1999: Section Chief for System Engineering </li>
                     <li>Apr. 1997: Drillship interface coordinator in Huston</li>
                     <li>May 1995: Coordinator at Bremer Vulkan shipyard in Germany</li>
-                    <li>Mar.1990-Feb.1994: Assistant Manager</li>
-                    <li>Jan. 1986-Feb.1990: Ship Design Engineer</li>
                 </ul>
             </ul>
             <ul>
                 <li>Engineering Experience:
                     <ul>
                         <li>Ship Type: FPSO, LNG, Shuttle, Drillship, Tanker (Crude, Product and Chemical), Container, Ro-Ro</li>
+                        <li>Equipment managing: Cargo Hatch Cover, Steering Gear, Cranes, Winch/Windlass, and Lifesaving Equipment<li> 
                         <li>Writer: Engineering manual for ship ventilation</li>
                         <li>Co-writer, Ship's machinery and equipment (Publish in 2000, The Society of Naval Architects of Korea) Chapter 5, Hull Piping System</li>
+                        <li>Editorial supervision for Ship's machinery and equipment published by Korea Offshore & Shipbuilding Association
                     </ul>
                  </li>
             </ul>
@@ -142,8 +136,7 @@
         <li>March - July 2006: MecMar Exhaust Gas System, Documents Translation in Korean</li>
         <ul>
             <li>Operation Manual</li>
-            <li>Service and Instruction Manual</li>
-            <li>Spare parts list</li>
+            <li>Service and Instruction Manual including Spare parts list</li>
         </ul>
         <li>1997-1998: Secretary of Hull outfitting design Subcommittee
             Engineering Committee, Korea Offshore & Shipbuilding Association</li>
