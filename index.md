@@ -121,7 +121,7 @@
                         <li>Equipment managing: Cargo Hatch Cover, Steering Gear, Cranes, Winch/Windlass, and Lifesaving Equipment</li> 
                         <li>Writer: Engineering manual for ship ventilation</li>
                         <li>Co-writer, Ship's machinery and equipment (Publish in 2000, The Society of Naval Architects of Korea) Chapter 5, Hull Piping System</li>
-                        <li>Editorial supervision for Ship's machinery and equipment published by Korea Offshore & Shipbuilding Association
+                        <li>Editorial supervision for Ship's machinery and equipment published by Korea Offshore & Shipbuilding Association</li>
                     </ul>
                  </li>
             </ul>
