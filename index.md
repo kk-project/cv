@@ -152,7 +152,6 @@
 
     <P class="subtitle">SKILLS</p>
     <ul class="qualifications">
-        <li>Good at Microsoft Office; Word, Excel, Outlook, Power point, MS Project</li>
         <li>Language:</li>
         <ul>
             <li>Korean (Native)</li>
@@ -160,6 +159,9 @@
             <li>Norwegian (Basic understanding in spoken and written):
                 <br>Module 3, A language level to study texts for Norwegian culture and society</li>
         </ul>
+        <li>Good at Microsoft Office; Word, Excel, Outlook, Power point</li>
+        <li>MS Project</li>
+        <li>AutoCad 2D</li>
     </ul>
 </body>
 </html>
