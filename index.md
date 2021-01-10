@@ -23,8 +23,8 @@
 
     <P class="subtitle">QUALIFICATIONS</P>
     <ul class="qualifications">
-        <li>Self-driven professional with experiences in engineering, project, technical and commercial sales, and managerial position with good understanding of work</li>
-        <li>process for marine / offshore industries.</li>
+        Self-driven professional with experiences in engineering, project, technical and commercial sales, and managerial position with good understanding of work
+        process for marine / offshore industries.
         <li>Project Managing / Technical Project Managing</li>
         <li>Ship design / engineering; Naval Architect </li>
         <li>Well understanding of global business culture and business process in marine sector</li>
