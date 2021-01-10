@@ -23,8 +23,7 @@
 
     <P class="subtitle">QUALIFICATIONS</P>
     <ul class="qualifications">
-        <br>Self-driven professional with experiences in engineering, project, technical and commercial sales, and managerial position with good understanding of work
-        process for marine / offshore industries.<br>
+    Self-driven professional with experiences in engineering, project, technical and commercial sales, and managerial position with good understanding of work process for marine / offshore industries.<br>
         <li>Project Managing / Technical Project Managing</li>
         <li>Ship design / engineering; Naval Architect </li>
         <li>Well understanding of global business culture and business process in marine sector</li>
@@ -70,8 +69,6 @@
             <u>TTS Business Unit Services (TTS Marine AS), Kristiansand</u>
             <br>Service Hubs development<br>
             Market Analysis: Analyzing install base and estimating service business opportunity and turnover<br>
-            A member of M&A working group<br>
-            A member of Strategy Sourcing Group<br>
             HSE Manuals: Establishing safety manual and Check list for Job Safety Analysis<br>
             General Manager (Acting) of TTS Marine Inc in USA (2014. 04 – 2014. 12)<br>
 
