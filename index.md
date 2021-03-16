@@ -14,11 +14,11 @@
     <p><img src="P3180288-1.jpg" alt=""></p>
     <ul class="header">
         <br>
-        <li>Residence:Norway</li>
-        <li>E-mail:k.kim.no@hotmail.com</li>
-        <li>Mobile: +47 90 85 82 20</li>
-        <li>Nationality: Korean</li>
-        <li>Year of Birth: 1962</li>
+        <li>Residence:-</li>
+        <li>E-mail:k.kim.xx@hotmail.com</li>
+        <li>Mobile: +47 90 85 xx xx</li>
+        <li>Nationality: -</li>
+        <li>Year of Birth: 19xx</li>
     </ul>
 
     <P class="subtitle">QUALIFICATIONS</P>
