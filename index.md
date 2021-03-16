@@ -16,7 +16,7 @@
         <br>
         <li>Residence:-</li>
         <li>E-mail:k.kim.xx@hotmail.com</li>
-        <li>Mobile: +47 90 85 xx xx</li>
+        <li>Mobile: +xx 90 85 xx xx</li>
         <li>Nationality: -</li>
         <li>Year of Birth: 19xx</li>
     </ul>
